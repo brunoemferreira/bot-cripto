@@ -1,11 +1,12 @@
 {
   "name": "bot-cripto",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
-  "main": "index.js",
+  "main": "index-1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start-one": "node --watch --env-file=.env src/index-1.js",
+    "start-two": "node --watch --env-file=.env src/index-2.js"
   },
   "keywords": [],
   "author": "",
