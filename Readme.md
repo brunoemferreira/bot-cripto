@@ -29,9 +29,6 @@ bot-cripto
     │   package.json
     │   Readme.md
     │   yarn.lock
-    │
-    ├───node_modules
-    │
     └───src
           index-1.js
           index-2.js
