@@ -1,7 +1,7 @@
 ![chrome_YV9JKNy3JO](https://github.com/user-attachments/assets/297ad53f-a733-45e6-a812-7c23c5665a22)
 
 ## 📄 Descrição 
-Bot que monitora e opera no mercado de criptomoedas 24h por dia, 7 dias por semana.
+Bot que monitora e opera no mercado de criptomoedas 24h por dia, 7 dias por semana. O projeto apresenta duas possibilidades de execução a primeira é usando a estratégia de média que compra em 90% e vende em 110% e a outra é utilizando o cruzamento de médias.
 
 ## Ferramentas e Bibliotecas
 
