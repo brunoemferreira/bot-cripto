@@ -11,7 +11,7 @@ Bot que monitora e opera no mercado de criptomoedas 24h por dia, 7 dias por sema
 * [process.env]() - Arquivo de variáveis de ambiente
 
 
-
+## ⚙️ Configurações
 ```env
 API_URL=<api-de-testes-da-binance>
 SYMBOL=BTCUSDT
