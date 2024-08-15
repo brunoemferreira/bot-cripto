@@ -20,10 +20,18 @@ API_KEY=<api-key-binance>
 SECRET_KEY=<secret-key-binance>
 ```
 
-```text
+```shell
 bot-cripto
+    │   .env
+    │   .gitattributes
+    │   .gitignore
+    │   package.json
+    │   Readme.md
+    │   yarn.lock
+    │
     ├───node_modules
+    │
     └───src
-        └───index-1.js
-        └───index-2.js
+            index-1.js
+            index-2.js
 ```
