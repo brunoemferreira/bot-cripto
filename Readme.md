@@ -20,7 +20,7 @@ API_KEY=<api-key-binance>
 SECRET_KEY=<secret-key-binance>
 ```
 
-## Estrutura de Pastas e Arquivos
+## 🗃️ Estrutura de Pastas e Arquivos
 ```shell
 bot-cripto
     │   .env
@@ -35,4 +35,14 @@ bot-cripto
     └───src
           index-1.js
           index-2.js
+```
+
+## Execução 
+
+```shell
+# Executa a estratégia de média que compra em 90% e vende em 110%
+$ npm run start-one
+
+# Executa a estratégia de cruzamento de médias
+$ npm run start-two
 ```
