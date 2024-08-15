@@ -19,3 +19,11 @@ QUANTITY=0.001
 API_KEY=<api-key-binance>
 SECRET_KEY=<secret-key-binance>
 ```
+
+```text
+bot-cripto
+    ├───node_modules
+    └───src
+        └───index-1.js
+        └───index-2.js
+```
