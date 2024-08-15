@@ -9,3 +9,13 @@ Bot que monitora e opera no mercado de criptomoedas 24h por dia, 7 dias por sema
 * [Axios]()
 * [Crypto]() - Biblioteca Nativa do NodeJS
 * [process.env]() - Arquivo de variáveis de ambiente
+
+
+
+```env
+API_URL=<api-de-testes-da-binance>
+SYMBOL=BTCUSDT
+QUANTITY=0.001
+API_KEY=<api-key-binance>
+SECRET_KEY=<secret-key-binance>
+```
