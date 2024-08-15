@@ -20,6 +20,7 @@ API_KEY=<api-key-binance>
 SECRET_KEY=<secret-key-binance>
 ```
 
+## Estrutura de Pastas e Arquivos
 ```shell
 bot-cripto
     │   .env
